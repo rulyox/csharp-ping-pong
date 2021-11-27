@@ -1,0 +1,5 @@
+quartznet.db
+bin/
+obj/
+.idea/
+*.user
