@@ -2,7 +2,9 @@
 
 An example ping-pong program that uses [ABP Event Bus](https://docs.abp.io/en/abp/5.0/Event-Bus) and [Quartz.net Job Scheduler](https://www.quartz-scheduler.net).
 
-![screenshot.png](screenshot.png)
+![diagram.png](doc/diagram.png)
+
+![screenshot.png](doc/screenshot.png)
 
 ## Usage
 
